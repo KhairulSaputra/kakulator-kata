@@ -1,4 +1,5 @@
-
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 def wordsCount(kalimat):
     # Memisahkan kata-kata menggunakan split()
     kata_kunci = kalimat.split()
